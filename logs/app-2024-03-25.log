@@ -1,0 +1,8 @@
+[INFO ] 2024-03-25 17:02:46.187 [main] UserTests2 - **********Creating User*************
+[INFO ] 2024-03-25 17:02:49.656 [main] UserTests2 - **********User Created*************
+[INFO ] 2024-03-25 17:02:49.668 [main] UserTests2 - **********Reading User info*************
+[INFO ] 2024-03-25 17:02:50.778 [main] UserTests2 - ************User Info displayed*************
+[INFO ] 2024-03-25 17:02:50.791 [main] UserTests2 - **********Updating User*************
+[INFO ] 2024-03-25 17:02:51.565 [main] UserTests2 - **********User Updated*************
+[INFO ] 2024-03-25 17:02:51.573 [main] UserTests2 - **********Deleting User*************
+[INFO ] 2024-03-25 17:02:52.741 [main] UserTests2 - **********User Deleted*************
